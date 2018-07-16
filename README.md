@@ -1,2 +1,3 @@
-# sakura-csv-reader-aws-lambda
-lambda function for reading CSV files uploaded to S3
+# Sakura CSV reader AWS lambda function
+
+This function is used to load the information from bin CSV file.
